@@ -1,5 +1,5 @@
 <!--Banner-->
-![devdilyorbek Banner Image](https://github.com/devdilyorbek/devdilyorbek/blob/main/HI%2C%20there%20%F0%9F%91%8B.png)
+![dilyorbek777 Banner Image](https://github.com/devdilyorbek/devdilyorbek/blob/main/HI%2C%20there%20%F0%9F%91%8B.png)
 
 <!--Night Owl image-->
 <div>
@@ -21,7 +21,7 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=devdilyorbek&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="devdilyorbek" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=dilyorbek777&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="dilyorbek777" style="padding-right:20px;" />
 </p>
 
 ---
@@ -38,8 +38,8 @@
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-  <a href="https://github.com/devdilyorbek/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=devdilyorbek&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
+  <a href="https://github.com/dilyorbek777/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dilyorbek777&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
   </a>
 </p>
 <br />
@@ -52,16 +52,16 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/devdilyorbek">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=devdilyorbek&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        <a href="https://github.com/dilyorbek777">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=dilyorbek777&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/devdilyorbek">
-          <img align="center" src="https://streak-stats.demolab.com?user=devdilyorbek&theme=nightowl" alt="Streak Stats" />
+        <a href="https://github.com/dilyorbek777">
+          <img align="center" src="https://streak-stats.demolab.com?user=dilyorbek777&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -70,16 +70,16 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/devdilyorbek/Awesome-Dev-Portfolios">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=devdilyorbek&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true" alt="Awesome-Dev-Portfolios" />
+        <a href="https://github.com/dilyorbek777/Awesome-Dev-Portfolios">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=dilyorbek777&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/devdilyorbek">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=devdilyorbek&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        <a href="https://github.com/dilyorbek777">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=dilyorbek777&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -90,7 +90,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=devdilyorbek&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilyorbek777&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
 ---
@@ -98,184 +98,11 @@
 <!--Dynamic Quote card updated everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Leo%20Tolstoy&quote=True%20life%20is%20lived%20when%20tiny%20changes%20occur.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -303,7 +130,7 @@
 
 <!--Buy me a coffee-->
 <div align="center">
-<a href="https://www.buymeacoffee.com/devdilyorbek" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+<a href="https://www.buymeacoffee.com/dilyorbek777" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
 
