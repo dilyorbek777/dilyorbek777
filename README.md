@@ -57,24 +57,10 @@
         </a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/dilyorbek777">
-          <img align="center" src="https://streak-stats.demolab.com?user=dilyorbek777&theme=nightowl" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
+    
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/dilyorbek777/Awesome-Dev-Portfolios">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=dilyorbek777&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true" alt="Awesome-Dev-Portfolios" />
-        </a>
-      </p>
-    </td>
+    
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
