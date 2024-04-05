@@ -1,5 +1,5 @@
 <!--Banner-->
-![devdilyorbek Banner Image](./https://github.com/devdilyorbek/devdilyorbek/blob/main/HI%2C%20there%20%F0%9F%91%8B.png)
+![devdilyorbek Banner Image](https://github.com/devdilyorbek/devdilyorbek/blob/main/HI%2C%20there%20%F0%9F%91%8B.png)
 
 <!--Night Owl image-->
 <div>
