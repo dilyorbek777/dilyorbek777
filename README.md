@@ -71,8 +71,11 @@
       </p>
     </td>
   </tr>
+  
 </table>
 <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashidov21&layout=compact&theme=highcontrast)](https://github.com/Rashidov21/github-readme-stats)
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
