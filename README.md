@@ -61,7 +61,7 @@
   </tr>
   <tr>
     
-    <td width="50%">
+<td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/dilyorbek777">
