@@ -75,7 +75,7 @@
 </table>
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilyorbek777&layout=compact&theme=highcontrast)](https://github.com/dilyorbek777/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilyorbek777&layout=compact&theme=highcontrast)](https://github.com/dilyorbek777/)
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
